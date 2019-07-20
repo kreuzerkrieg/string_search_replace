@@ -2,7 +2,7 @@
 #define NONIUS_RUNNER
 #endif
 
-#include "../Tests/nonius/nonius.h++"
+#include "nonius/nonius.h++"
 #include "BoostAlgoString.h"
 #include "BoostSpirit.h"
 #include "Manual.h"
